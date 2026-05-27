@@ -1,16 +1,26 @@
-## Hi there 👋
+# Tanishq Vyas
 
-<!--
-**tanishqvyas-code/tanishqvyas-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer and Instructor based in Bhopal, India.
+I build machine learning systems, LLM-powered applications, and RAG pipelines.
 
-Here are some ideas to get you started:
+📍 Bhopal, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+`Python` `PyTorch` `Scikit-learn` `LangChain` `FastAPI` `Pinecone` `OpenCV` `YOLOv8` `SQL` `Power BI`
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [Sage-AI-Doubt-Solver](https://github.com/tanishqvyas-code/Sage-AI-Doubt-Solver) | RAG-based Q&A system built for students |
+| [vehicle-ai-detection](https://github.com/tanishqvyas-code/vehicle-ai-detection) | Real-time vehicle detection and counting with YOLO |
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishq_Vyas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-vyas-b5068729a)
+  
